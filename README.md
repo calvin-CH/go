@@ -1,4 +1,4 @@
-# The Go Programming Language
+# The Calvin Programming Language (Which is basically Go)
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
